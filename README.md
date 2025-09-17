@@ -86,5 +86,5 @@ Refer to `results/analysis.xlsx` and `results/Output Document.docx` for summary 
 
 The following AI tools were used to assist in developing this solution:
 
-- GitHub Copilot Chat
-- GitHub Copilot Autocomplete
+- GitHub Copilot Chat - for code boilerplate, generating readme and EDA
+- GitHub Copilot Autocomplete - for generating code as per inline comments

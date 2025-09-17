@@ -11,3 +11,4 @@ wheels/
 
 # temp
 *_temp.*
+tmp/
