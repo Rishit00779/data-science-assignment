@@ -81,3 +81,10 @@ uv run jupyter notebook
 
 ### Key Results
 Refer to `results/analysis.xlsx` and `results/Output Document.docx` for summary of the results.
+
+## AI Assistance
+
+The following AI tools were used to assist in developing this solution:
+
+- GitHub Copilot Chat
+- GitHub Copilot Autocomplete
